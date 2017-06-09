@@ -1,0 +1,2 @@
+1. [u] Training Deep Neural Networks on Noisy Labels with Bootstrapping.
+2. [r] Classical Probabilistic Models and Conditional Random Fields
